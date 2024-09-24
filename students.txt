@@ -1,0 +1,6 @@
+32,Rajesh,7
+23,Divya,11
+23,Priya,5
+Aruna,Aruna,3
+32,Aruna,12
+5382,Srithika,11
